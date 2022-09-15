@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  width: 60%;
+  margin: 2.4rem auto;
+}
+
+.btn:hover {
+  box-shadow: 3px 3px 10px #fecd70;
+  transition: all 1s;
+}
+
+#navbarSupportedContent ul li {
+  color: red;
+}
+
+#offcanvasNavbar {
+  background-color: #ffc107;
+}
